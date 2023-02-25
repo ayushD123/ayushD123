@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **ayushdixit244@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tIlA9ukRo-ZPTsWuRFUB868e9lq8kMot/view?usp=sharing](https://drive.google.com/file/d/1tIlA9ukRo-ZPTsWuRFUB868e9lq8kMot/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1LhWd4q72pCb48uk6yW9nlrlphOMqeZXA/view?usp=sharing](https://drive.google.com/file/d/1LhWd4q72pCb48uk6yW9nlrlphOMqeZXA/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
