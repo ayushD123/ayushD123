@@ -1,6 +1,6 @@
 ![MasterHead](https://referbruv.com/wp-content/uploads/2022/05/flutter-banner.png)
 <h1 align="center">Hi 👋, I'm Ayush Dixit</h1>
-<h3 align="center">Im tech consultant at Oracle</h3>
+<h3 align="center">Im an engineer at Oracle</h3>
 <img align="right" alt="Coding" width="600" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 # 💫 About Me:
 🔭 I’m currently working on NodeJs<br>👯 I’m looking to collaborate on Flutter<br>🤝 I’m looking for help with Android<br>🌱 I’m currently learning AWS<br>💬 Ask me about Mobile Development<br>⚡ Fun fact I dont like interacting people
